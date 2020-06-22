@@ -28,11 +28,11 @@ Having wanted to learn time-series, I took an online class, read [fpp2](https://
 
 <image src="Images/pall_predict.png">
   
-### 2 year Platinum forecast
+### 2 year Palladium forecast
 
 <image src="Images/pall_forecast.png">
   
-### Forecasting Platinum with Facebook's Prophet
+### Forecasting Palladium with Facebook's Prophet
 
 <image src="Images/fb_pall_forecast.png">
   
